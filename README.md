@@ -3,7 +3,7 @@
 # My_Leetcode_stories
 leetcode-solutions I have solved/ been solving ...
 
-You can find my LeetCode profile [here]([https://leetcode.com/turabaev](https://leetcode.com/u/adam_69/)).
+You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 
 
 

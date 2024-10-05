@@ -11,7 +11,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 
 | Original Problem Link       | Title                           | My Solution Link              | Level     |
 |-----------------------------|---------------------------------|-------------------------------|-----------|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Two Sum | [My Solution]((https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/Two%20Sum.java)) | Easy      |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Two Sum | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/Two%20Sum.java) | Easy      |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/palindrome-number/)) | palindrome-number              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
 
 

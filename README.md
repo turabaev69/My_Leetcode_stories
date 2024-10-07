@@ -14,7 +14,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Two Sum | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/Two%20Sum.java) | Easy      |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 27. Remove Element | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/27.%20Remove%20Element/27_Remove_Element.java) | Easy      |
 | [66. Plus One](https://leetcode.com/problems/remove-element/) | 66. Plus One | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/66.%20Plus%20One/66_Plus_One.java) | Easy      |
-|  Medium           Medium                  Medium                 Medium            Medium                 Medium                   Medium                  Medium                  Medium           Medium         |    
+|  Medium          👇        |     Medium          👇           |       Medium          👇      |   Medium      👇      |          
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/palindrome-number/)) | palindrome-number              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
 
 

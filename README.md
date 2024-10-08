@@ -16,6 +16,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [66. Plus One](https://leetcode.com/problems/remove-element/) | 66. Plus One | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/66.%20Plus%20One/66_Plus_One.java) | Easy      |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge_two_sorted_linked_lists | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/Merge_two_sorted_linked_lists/Merge_two_sorted_linked_lists.java) | Easy      |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 26. Remove Duplicates from Sorted Array | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/Remove-Duplicates-from-Sorted-Array/Remove_Duplicates_from_Sorted_Array.java) | Easy      |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 70. Climbing Stairs | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/tree/main/Java/easy/70.%20Climbing%20Stairs) | Easy      |
 |  Medium          👇        |     Medium          👇           |       Medium          👇      |   Medium      👇      |          
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/palindrome-number/)) | palindrome-number              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
 

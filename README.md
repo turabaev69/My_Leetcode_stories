@@ -19,6 +19,14 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 70. Climbing Stairs | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/tree/main/Java/easy/70.%20Climbing%20Stairs) | Easy      |
 |  Medium          👇        |     Medium          👇           |       Medium          👇      |   Medium      👇      |          
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/palindrome-number/)) | palindrome-number              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Longest Palindromic Substring              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/5.%20Longest%20Palindromic%20Substring/5_Longest_Palindromic_Substring.java) | Medium    |
+| [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | 31. Next Permutation              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/31.%20Next%20Permutation/31_Next_Permutation.java) | Medium    |
+| [15. 3Sum](https://leetcode.com/problems/3sum/description/) | 15. 3Sum              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/15.%203Sum/15_3Sum.java) | Medium    |
+| [18. 4Sum](https://leetcode.com/problems/4sum/description/) | 18. 4Sum              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/18.%204Sum/18_4Sum.java) | Medium    |
+| [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | 12. Integer to Roman              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/12.%20Integer%20to%20Roman/12_Integer_to_Roman.java) | Medium    |
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | 9. Palindrome Number          | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
+
+
 
 
 

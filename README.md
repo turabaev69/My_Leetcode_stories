@@ -38,3 +38,25 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 |  Medium          👇        |     Medium          👇           |       Medium          👇      |   Medium      👇      |          
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | 75.Sort Colors   | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/75.%20Sort%20Colors/Sort-Colors.go) | Medium  |
 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 912. Sort an Array | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/tree/main/Golang/912.%20Sort%20an%20Array) | Medium    |
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | 9_Palindrome_Number | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/9.%20Palindrome%20Number/9_Palindrome_Number.go) | Medium |
+| [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | 12. Integer to Roman| [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/12.%20Integer%20to%20Roman/12_Integer_to_Roman.go) | Medium |
+| [15. 3Sum](https://leetcode.com/problems/3sum/description/) | 15. 3Sum | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/15.%203Sum/15_3Sum.go) | Medium |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | 2. Add Two Numbers | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/2.%20Add%20Two%20Numbers/2_Add_Two_Numbers.go) | Medium |
+| [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 28. Find the Index of the First Occurrence in a String | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/28_Find_the_Index_of_the_First_Occurrence_in_String.go) | Easy |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

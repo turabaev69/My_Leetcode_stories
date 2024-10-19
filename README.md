@@ -25,8 +25,8 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [18. 4Sum](https://leetcode.com/problems/4sum/description/) | 18. 4Sum              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/18.%204Sum/18_4Sum.java) | Medium    |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | 12. Integer to Roman              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/12.%20Integer%20to%20Roman/12_Integer_to_Roman.java) | Medium    |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | 9. Palindrome Number          | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
-
-
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | 9. Palindrome Number          | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | 8. String to Integer (atoi) | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/8.%20String%20to%20Integer%20(atoi)8.%20String%20to%20Integer%20(atoi)/8_String_to_Integer_(atoi).java) | Medium |
 
 
 
@@ -43,7 +43,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [15. 3Sum](https://leetcode.com/problems/3sum/description/) | 15. 3Sum | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/15.%203Sum/15_3Sum.go) | Medium |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | 2. Add Two Numbers | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/2.%20Add%20Two%20Numbers/2_Add_Two_Numbers.go) | Medium |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 28. Find the Index of the First Occurrence in a String | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/28_Find_the_Index_of_the_First_Occurrence_in_String.go) | Easy |
-
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | 8. String to Integer (atoi) | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/8.%20String%20to%20Integer%20(atoi)/8_String_to_Integer%E2%80%93(atoi).go) | Medium |
 
 
 

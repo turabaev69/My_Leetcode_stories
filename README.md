@@ -28,6 +28,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | 9. Palindrome Number          | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | 8. String to Integer (atoi) | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/8.%20String%20to%20Integer%20(atoi)8.%20String%20to%20Integer%20(atoi)/8_String_to_Integer_(atoi).java) | Medium |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 29. Divide Two Integers             | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/29.%20Divide%20Two%20Integers/29_Divide_Two_Integers.java) | Medium    |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 153. Find Minimum in Rotated Sorted Array       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_Find_Minimum_in_Rotated_Sorted_Array.java) | Medium    |
 
 
 # Table of Contents  (GOLANG)
@@ -45,7 +46,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 28. Find the Index of the First Occurrence in a String | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/28_Find_the_Index_of_the_First_Occurrence_in_String.go) | Easy |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | 8. String to Integer (atoi) | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/8.%20String%20to%20Integer%20(atoi)/8_String_to_Integer%E2%80%93(atoi).go) | Medium |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 29. Divide Two Integers           | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/29.%20Divide%20Two%20Integers/29_Divide_Two_Integers.go) | Medium |
-
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 153. Find Minimum in Rotated Sorted Array       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_Find_Minimum_in_Rotated_Sorted_Array.go) | Medium |
 
 
 

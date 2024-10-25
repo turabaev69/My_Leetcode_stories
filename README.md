@@ -19,8 +19,6 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 70. Climbing Stairs | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/tree/main/Java/easy/70.%20Climbing%20Stairs) | Easy      |
 | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | 1967. Number of Strings That Appear as Substrings in Word | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word.java) | Easy      |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 724. Find Pivot Index | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/easy/724.%20Find%20Pivot%20Index/724_Find_Pivot_Index.java) | Easy      |
-
-
 |  Medium          👇        |     Medium          👇           |       Medium          👇      |   Medium      👇      |          
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/palindrome-number/)) | palindrome-number              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/Palindrome%20Number.java) | Medium    |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Longest Palindromic Substring              | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/5.%20Longest%20Palindromic%20Substring/5_Longest_Palindromic_Substring.java) | Medium    |

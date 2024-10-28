@@ -31,6 +31,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | 8. String to Integer (atoi) | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/8.%20String%20to%20Integer%20(atoi)8.%20String%20to%20Integer%20(atoi)/8_String_to_Integer_(atoi).java) | Medium |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 29. Divide Two Integers             | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/29.%20Divide%20Two%20Integers/29_Divide_Two_Integers.java) | Medium    |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 153. Find Minimum in Rotated Sorted Array       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_Find_Minimum_in_Rotated_Sorted_Array.java) | Medium    |
+| [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) | 1513. Number of Substrings With Only 1s       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/1513.%20Number%20of%20Substrings%20With%20Only%201s/1513_Number_of%E2%80%93Substrings_With_Only_1s.java) | Medium    |
 
 
 # Table of Contents  (GOLANG)
@@ -49,8 +50,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | 8. String to Integer (atoi) | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/8.%20String%20to%20Integer%20(atoi)/8_String_to_Integer%E2%80%93(atoi).go) | Medium |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 29. Divide Two Integers           | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/29.%20Divide%20Two%20Integers/29_Divide_Two_Integers.go) | Medium |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 153. Find Minimum in Rotated Sorted Array       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_Find_Minimum_in_Rotated_Sorted_Array.go) | Medium |
-
-
+| [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) | 1513. Number of Substrings With Only 1s       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/1513.%20Number%20of%20Substrings%20With%20Only%201s/1513_Number_of_Substrings_With_Only_1s.go) | Medium    |
 
 
 

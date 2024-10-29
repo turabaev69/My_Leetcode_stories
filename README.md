@@ -39,6 +39,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | Original Problem Link       | Title                           | My Solution Link              | Level     |
 |-----------------------------|---------------------------------|-------------------------------|-----------|
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 70. Climbing Stairs| [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/70.%20Climbing%20Stairs/70_Climbing_Stairs.go) | Easy      | 
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | 1. Two Sum| [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/1.%20Two%20Sum/1_Two_Sum.go) | Easy      | 
 |  Medium          👇        |     Medium          👇           |       Medium          👇      |   Medium      👇      |          
 | [75.Sort Colors](https://leetcode.com/problems/sort-colors/) | 75.Sort Colors   | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Golang/75.%20Sort%20Colors/Sort-Colors.go) | Medium  |
 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | 912. Sort an Array | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/tree/main/Golang/912.%20Sort%20an%20Array) | Medium    |

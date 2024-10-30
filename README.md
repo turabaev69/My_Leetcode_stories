@@ -32,6 +32,7 @@ You can find my LeetCode profile [here](https://leetcode.com/u/adam_69/).
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 29. Divide Two Integers             | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/29.%20Divide%20Two%20Integers/29_Divide_Two_Integers.java) | Medium    |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 153. Find Minimum in Rotated Sorted Array       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_Find_Minimum_in_Rotated_Sorted_Array.java) | Medium    |
 | [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) | 1513. Number of Substrings With Only 1s       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/1513.%20Number%20of%20Substrings%20With%20Only%201s/1513_Number_of%E2%80%93Substrings_With_Only_1s.java) | Medium    |
+| [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 421. Maximum XOR of Two Numbers in an Array       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/421_Maximum_XOR_of_Two_Numbers_in_an_Array.java) | Medium    |
 
 
 # Table of Contents  (GOLANG)

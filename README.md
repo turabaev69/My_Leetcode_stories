@@ -37,6 +37,8 @@ thius is
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 153. Find Minimum in Rotated Sorted Array       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_Find_Minimum_in_Rotated_Sorted_Array.java) | Medium    |
 | [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) | 1513. Number of Substrings With Only 1s       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/1513.%20Number%20of%20Substrings%20With%20Only%201s/1513_Number_of%E2%80%93Substrings_With_Only_1s.java) | Medium    |
 | [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 421. Maximum XOR of Two Numbers in an Array       | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/421_Maximum_XOR_of_Two_Numbers_in_an_Array.java) | Medium    |
+| [1604. Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [My Solution](https://github.com/turabaev69/My_Leetcode_stories/blob/main/Java/medium/1604.%20Alert%20Using%20Same%20Key-Card%20Three%20or%20More%20Times%20in%20a%20One%20Hour%20Period/1604_Alert_Using_Same_Key-Card_Three_or_More_Times_in_a_One_Hour_Period.java) | Medium    |
+
 
 
 # Table of Contents  (GOLANG)
